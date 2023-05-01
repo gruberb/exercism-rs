@@ -1,0 +1,4 @@
+/target/
+.idea
+.exercism
+.DS_STORE
